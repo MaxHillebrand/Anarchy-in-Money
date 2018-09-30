@@ -43,6 +43,16 @@ In Bitcoin, there is a set issuance rate for new money units. Initially, 50 new 
 |Annual growth rate|  |209.13% |59.42% |32.66% |14.94% |12.06% |9.93% |6.80% |4.09% |3.93% |3.78% |2.73% |1.77% |1.74% |1.71% |1.26% |
 |=================================================================================
 
+.Average Growth Rate of Monetary Supply, 1984-2013; Source: [Saifedean Ammousfootnote:[Ammous, July 2016 with calculations from data from St. Louis Federal Reserve Bank and World Gold Council. https://thesaifhouse.wordpress.com/2016/07/09/the-bitcoin-halving-and-monetary-competition/]]
+[cols="h,7*",options="header",width="50%"]
+|=================================================================================
+|      |Gold |USD M2 |JPY M3 |CHF M3 |EUR M3 |GBP M3 |
+|Average    |1.71%  |5.53% |3.47% |4.70% |6.19% |8.80% |
+|Standard Deviation  |0.15% |2.58% |3.67% |2.88% |3.34% |5.52% |
+|Minimum |1.44%  |0.35% |-5.10% |-1.13% |-0.65% |-3.32% | 
+|Maximum |1.89% |10.30% |11.14% |10.92% |12.03% |19.14% |
+|=================================================================================
+
 In a fiat system with legal tender laws, inflation is theft because it shifts the purchasing power from the savers, to the money producers, and the users didn’t voluntarily agree to the redistribution and they are forced to use the currency as it depreciates in purchasing power. However, the consensus rules in Bitcoin were set in 2009, and anyone who runs a Bitcoin full node can decide which rules to follow. Any arbitrary change to the open source software is not just possible, but encouraged. Because anyone can adapt the rules, by definition, if an individual node is connecting to the network, it is voluntarily agreeing to the rules in this network, including the inflation schedule. Therefore, the Bitcoin inflation rate is accepted voluntarily, and thus neither coercion nor theft. There is no inherent moral problem with a voluntary inflation, however, there might be an economic issue.
 As described earlier, the Cantillon effects favor the money producers over the savers, and shift the purchasing power from one to the other. This creates two problems: (i) malinvestment and (ii) over consumption. 
 
