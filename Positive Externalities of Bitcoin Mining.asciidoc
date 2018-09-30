@@ -47,7 +47,7 @@ It is evident, that compared to other currency systems, especially a base money,
 .Comparison Energy Cost of Moneys; Source: [Dan Hedl]footnote:[Dan Hedl, September 2018, PoW is Efficient https://medium.com/@danhedl/pow-is-efficient-aa3d442754d3]
 [cols="h,3*",options="header",width="50%"]
 |=================================================================================
-|      |Yearly Cost in B USD|Energy Used (Million GJ) |
+|      |Yearly Cost in Billion USD|Energy Used in Million GJ |
 |Gold Mining    |105  |475     |
 |Gold Recycling    |40  |25     |
 |Paper Currency and Minting    |28  |39     |
