@@ -13,7 +13,7 @@ There are several positive externalities of Bitcoin: (i) efficiency gains in min
 
 (i) Miners are profit seeking entrepreneurs, and thus incentivized to decrease their capex and opex without sacrificing product quality. There have been immense efficiency gains in mining hardware, that is an increase in gigahashes per joule. The market has moved from retail CPUsfootnote:[Central Processing Unit] to GPUsfootnote:[Graphics Processing Unit] to FGPAsfootnote:[Field Programmable Gate Array] and finally to ASICs.footnote:[Aplication-Specific Integrated Circuit] With each upgrade, the number of GH/J has steadily increased, providing more network security at the same level of energy consumed. Koomey’s lawfootnote:[Koomey, Berard, Sanchez, Wong, March 2011, Implications of Historical Trends in the Electrical Efficiency of Computing, Published in: IEEE Annals of the History of Computing ( Volume: 33, Issue: 3, March 2011 )] asserts that the number of computations per joule of energy dissipated doubles approximately every 1.5 years. Since ASICs were introduced in early 2014, their efficiency has increased by 872%, which is a doubling every year, outpacing Koobey’s law.
 
-image:MiningEfficiency.jpg[pdfwidth=4.25in,align=center]
+image:./Images/MiningEfficiency.jpg[pdfwidth=4.25in,align=center] 
 
 Source: [Node Blockchain Researchfootnote:[Saad Imran, August 2018 The Positive Externalities of Bitcoin Mining]]
 
@@ -21,7 +21,7 @@ Source: [Node Blockchain Researchfootnote:[Saad Imran, August 2018 The Positive 
 
 (iii) Energy is a homogeneous good, the utility is equal regardless of the location and type of production, however, the prices of electricity varies greatly in different locations. This is partially due to physical limitations, such as storage and transportation of energy is costly; and due to political inefficiencies, that is subsidies and monopoly privileges.footnote:[See chapter on Monopoly] Further, some types of production are more efficient like hydro power, and others are less cost effective, like coal power. In the Yunnan region, a total of 32 billion kWh of hydropower has been wasted due to the government prioritization of other sources of energy production,footnote:[http://www.chinasmartgrid.com.cn/news/20170308/622441.shtml] this is equivalent to the entire annual consumption of Bitcoin mining today. Bitcoin as a digital currency has no physical limitations and entrepreneurs can mine in whatever location they deem effective. Mining hardware, contrary to electricity, can be moved without extraordinary effort, not considering opportunity cost of keeping the hardware offline during transport. Thus, in order to decrease the opex, miners will tend to move to areas of energy overproduction first, as here the cost for electricity should be cheapest. This is basically energy reallocation and arbitrage, as those areas with comparatively cheap production will attract miners away from the inefficient locations. Therefore, PoW mining will improve the overall efficiency in the energy markets, providing a net benefit for society.
 
-image:ChinaMines.png[pdfwidth=4.25in,align=center]
+image:./Images/ChinaMines.png[pdfwidth=4.25in,align=center]
 
 Source: BitMEX research group
 
