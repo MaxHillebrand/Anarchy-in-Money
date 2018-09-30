@@ -43,6 +43,8 @@ In Bitcoin, there is a set issuance rate for new money units. Initially, 50 new 
 |Annual growth rate|  |209.13% |59.42% |32.66% |14.94% |12.06% |9.93% |6.80% |4.09% |3.93% |3.78% |2.73% |1.77% |1.74% |1.71% |1.26% |
 |=================================================================================
 
+image:./Images/bitcoin-supply.png[pdfwidth=4.25in,align=center] 
+
 .Average Growth Rate of Monetary Supply, 1984-2013; Source: [Saifedean Ammousfootnote:[Ammous, July 2016 with calculations from data from St. Louis Federal Reserve Bank and World Gold Council. https://thesaifhouse.wordpress.com/2016/07/09/the-bitcoin-halving-and-monetary-competition/]]
 [cols="h,7*",options="header",width="50%"]
 |=================================================================================
