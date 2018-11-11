@@ -1,6 +1,6 @@
 # Anarchy in Money
 
-This paper will analyze the emergence of a money on the free market and apply praxeological theory to the ethical economics of Bitcoin. Explaining the econommical foundations of Bitcoin as a sound money considering the ethical approach to money production. Elaborating on the control structure of Bitcoin and the organisation of self soverign network of nodes during changes to the consens algorithm. Further, the differenciation of layers and reserves in money, displayed by technologies like the lightning network and sidechains.
+This paper will analyze the emergence of a money on the free market and apply praxeological theory to the economics of Bitcoin. Explaining the monetary foundations of Bitcoin as a sound money considering the ethical approach to money production. Elaborating on the control structure of Bitcoin and the organisation of the network of self soverign nodes during changes to the consens algorithm. Further, the differenciation of layers and reserves in money, displayed by technologies like the lightning network and sidechains.
 
 There is no such thing as Intellectual Property, ideas are non-scarce goods, thus they can be shared freely and open without any cost of the “original” thinker. This paper is written under the Creative Commons License in an Open Source contribution process. If you are interested in contributing, please submitt a pull request, no permission needed!
 
