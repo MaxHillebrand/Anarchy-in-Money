@@ -41,8 +41,6 @@ That good, which is the most common medium of exchange, store of value and unit 
 
 The degree of saleability can be defined by the following characteristics: (1) scarcity; (2) portability; (3) durability; (5) divisibility; (6) malleability; (4) homogeneity; (8) censorship resistance. Each of those attributes will be analyzed briefly and compared to the attributes of Bitcoin.
 
-(1) There are two different type of goods, scarce and non-scarce. If taking the original good eliminates the possession of the previous owner, it is a scarce good; but if a good can be taken without displacing the original, it is non-scarce.footnote:[see chapter on scarcity] Because A money is always used in an economic exchange of goods, it must most definetly be a scarce good. If it were non-scarce, Alice would not give up anything in exchange for Bob's berries. Bob would probably not like to receive the non-scarce money, which he himself can replicate endlessly, in exchange of his berries, which are scarce and not reproducable. 
-
 (6) Malleability is the useful attribute of a money, that it can be reshaped to fit a specific need over and over again with limited costs. Similar to the attribute of divisibility, the value of the good increases, with lower costs of transforming it. 
 
 Gold can be transformed into jewelry, which increases its artistic value, minted into coins to make denominations more accessible, or cast into gold bars, to provide a high density of value.
