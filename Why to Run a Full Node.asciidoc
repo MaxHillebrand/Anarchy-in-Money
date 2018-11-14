@@ -13,6 +13,8 @@ Of course, as soon as one person changes some of the rules, he might violate the
 
 Not only does the individual user set his own consensus rules, he also verifies each and every single transaction that occurs on this network. If an incoming transaction complies with all the rules the individual set, he will accept the transaction. However, if another node propagates a transaction which the individual node deems wrong, he can and will ignore this transaction and possibly block the node that sent it. A user with a full node neither has to trust that someone is verifying if the rules are complied with, nor does he have to trust anyone to enforce the rules for him, he does this by himself without anyone's permission.
 
-A user who runs a full node thus chooses which rules he likes, verifies if they are uphold, and if not, punishes the nodes that don't comply. He thus is the judge, jury and executioner. He is the king of his money, the sovereign of his money. And nobody can take this away from him.
+
+
+A user who runs a full node thus chooses which rules he likes, verifies if they are uphold, and if not, punishes the nodes that don't comply. He thus is the judge, jury and executioner. He is the king of his money, the sovereign of his money. And nobody can take this away from him. ThisThis is per definition anarchy, the absence of coersive rule and masters, but only free sovereign individuals in voluntary coorporation
 
 This is why Bitcoin is unique and so innovative. Anyone and everyone has 100% ownership and control over his money, nobody can force him to do anything. This is further why closed source and permissions blockchain projects are simply boring and not innovative. They retain the control by the trusted centralized party and don't give the power to the user. It's the intranet, filled with stale, boring and old content; to the internet, a network of freedom, ideas and without any censorship.
