@@ -1,5 +1,5 @@
-Forks and Altcoins
-==================
+Forks
+=====
 
 All aspects of Bitcoin are fully transparent and open source, thus anyone who is interested has access to the Bitcoin Core implementation and source code.footnote:[https://github.com/bitcoin/bitcoin] As code is speech and a non-scarce good,footnote:[See chapter on scarce and non-scarce goods] it can be copied, adapted, and changed at barely any marginal cost. The code repository can easily be forked off, so to experiment with changes in the code base without affecting the existing consensus implementation. This code fork is not necessarily consensus critical and can be done without permission. A change in the code can be proposed to be pulled back into the reference client, but this is done after rigorous peer review and only when majority consensus is reached. Ultimately, the end user alone is deciding which software he is running and no malicious actor can force him to install any update.footnote:[See chapter on why to run a full node]
 
