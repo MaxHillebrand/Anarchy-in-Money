@@ -1,0 +1,44 @@
+Anarchy
+=======
+
+Natural Law is a set of universal, inherent, objective, non-man-made, eternal and immutable conditions, that govern the consequence of behavior of beings with the capacity for understanding the differences between harmful and non harmful action. This law of nature applies to all things objectively and exists independent of human understanding.footnote:[Strauss “Natural Law”, International Encyclopedia of the Social Sciences, 1968] It is known under several different terms: The Law of Cause and Effect [“Effect invariably follows cause” – “For every action, there exists an equal and opposing reaction”]; the Law of Attraction [“The energy you emit is the energy you attract” – “Energy flows where attention goes” – “As you think, feel and act – so you shall be”]; Karma or Moral Law [“You reap what you sow”]; or the Golden Rule [“Do unto others as you would have done to yourself”]. According to this theory, an action is Right, when it is based in truth and in harmony with Natural Law, this action does not result in harm to other sentient beings. Contrarily, any action is Wrong, when it is not based in truth and in opposition to Natural Law, thus, this action does result in harm to other sentient beings. Natural Law is derived through apophasis,footnote:[Greek for “to say no”] a method of logical reasoning employed when given a limited set of possibilities, in order to arrive at knowledge by way of the exclusion of known negatives. It is describing what something is based on, by what it is not. When eliminating the impossible, the remains, regardless how improbable, must be the truth. Natural Law is thus affirmation through negation.
+
+Any form of initiation of violence is agression against other sovereign individuals, and also a violation of their Natural Right to property. Murder is theft of another's life. Assault is theft of another's physical well being. Rape is theft of another's sexual consent. Theft is taking another's property in goods. Trespassing is theft of someone's home and land. Coersion is theft of another's Free Will. Taking something which does not belong to you is always a wrong and imoral act. The initiation of violence is never justifiable. The one single rule of Natural Law is thus: “Do not break Private Property.” Any action that does not harm property, is thus Rightful and in accordance with Natural Law. Harm no one. Do everything.
+
+Anarchy is derifed from the greek prefix "an-": "without; the absence of" and the Greek noun "archon": "external master; ruler". It does not mean no rules, rather, it means without imposed rulers, no masters and no slaves, in other words, Freedom. Anarchy is in oposition to authority or the state, ase these terms are simply euphemisms for agression and theft, which are always immoral and in opposition to Natural Law. There is no legitimacy to the mastery over other people. Freedom is based upon the Non-Aggression Principle and the Principle of Self-Defense against the violation of Rights. 
+
+A sovereign individual has the objective knowledge of which behaviors are Rights because they don't harm others, and which are wrongs, as they do steal from others. Further, once these facts are fully understood and integrated into one's being, and individual action is willfully aligned in accordance to this Will, a state of true Anarchy is achieved.
+
+All parts of the economy rely on a fundamental legal and moral framework, just as society in general require such ethical guidelines. This is of course true for the creation of production and consumption goods, where firms can strive to achieve prosperity both economically as well as morally. Most industries are under heavy scrutiny to make sure that no legal or moral code is violated without repercussions. However, one of the most important industries, money production, has so far slipped through the cracks of this due diligence. Jack Guynn, former chairman of the Federal Reserve Bank of Atlanta, hypocritically stressed the ethical challenges in a market economy, without applying the same rigor to his own institution.footnote:[Speech at the Bridgewater College, Bridgewater, Virginia, April 11, 2005]
+
+--------------------------------------------------------------------------------------
+further thoughts, not sure if Cryptoanarchy should be included... [space restrictions]
+--------------------------------------------------------------------------------------
+
+Voluntary action relies on the individual and explicit consent of all individuals involved. Any action that is not taking the property of another, is peaceful and thus morally righteous. 
+
+Coersion is implementing norms by violence. 
+
+Humans act.
+Whatever we do is observed by others and can attribute to the individual.
+Others judge our actions by applications of general norms to concrete action. 
+Norms inform judgment application of normal thorough judgment to action we decide the punishment to demonstrate that the norms are in place. 
+Act is observed, orient thing is perspective, decide and execute.
+
+Voluntary is opt in and out. 
+
+Hirarchy is a layered graph with decreasing number of nodes and non cyrcular.
+Dominance hirarchy is unequal in defining and enforcing laws. Enforcement is effectual power.
+
+Anarchy is not Anomie, thoughtless violence. 
+Anarchy is not no punishment, diplomatic immunity, hegemonic states
+Anarchy is voluntary non-total opt in / out norms, anarcho capitalism
+
+Crypto Anarchy is obfuscation of observation and non- attribution untraceablility confidentiality and judgement. Restricting the knowledge of non scarce goods.
+Mixers, Ring Signatures, Zero Knowledge Proofs, Confidential Transactions
+"Cryptography rearranges power. This makes it an inherently political tool"footnote:[P. Rogaway]
+
+When changing pseudomonas identities, one only gives up past social credit, not future. 
+
+
+
