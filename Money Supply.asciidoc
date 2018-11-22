@@ -34,6 +34,8 @@ However, as more people use Bitcoin, the more transactions possible, the higher 
 
 “The quantity of Bitcoin created is preprogrammed and cannot be altered no matter how much effort and energy is expended into proof-of-work. […] Difficulty adjustment is the most reliable technology for making hard money and limiting the stock-to-flow ratio from rising, and it makes Bitcoin fundamentally different from every other money. […] Bitcoin is the hardest money ever invented: growth in its value cannot possibly increase its supply; it can only make the network more secure and immune to attack. […] Gold became the prime money of every civilized society precisely because it was the hardest to produce, but Bitcoin’s difficulty adjustment makes it even harder to produce.”footnote:[Saifedean Ammous 2018, the Bitcoin Standard]
 
+In this sense, it's more typical of a precious metal. Instead of the supply changing to keep the value the same, the supply is predetermined and the value changes. As the number of users grows, the value per coin increases. It has the potential for a positive feedback loop; as users increase, the value goes up, which could attract more users to take advantage of the increasing value.footnote:[Nakamoto, Feb 2009 httpshttps://satoshi.nakamotoinstitute.org/posts/p2pfoundation/threads/1/#7]
+
 .Bitcoin Mining Energy Consumption; Source: [Marc Bevand,footnote:[http://blog.zorinaq.com/bitcoin-electricity-consumption/#fn:elec] Enerdata, Node Blockchainfootnote:[Saad Imran, August 2018 The Positive Externalities of Bitcoin Mining]]
 [cols="h,17*",options="header",width="50%"]
 |=================================================================================
