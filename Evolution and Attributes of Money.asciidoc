@@ -39,8 +39,15 @@ In this simplified barter economy, there is no universal price of any good. One 
 
 That good, which is the most common medium of exchange, store of value and unit of account in the economy, is called a money. Of course, every good can be money, but that good which is the most saleable will tend to be the single money. Due to the network effect, the saleability of the money increases exponentially with each new participant in the money economy. Thus there is a natural tendency towards one single money on the free and voluntary market. This must not be confused with government legal tender laws, which force market participants to use one single money. This monopoly decreases the overall wealth and prosperity of the society. 
 
+"But the expected value will be the decisive factor determining ho much of it the public will with to hold, and the issuing bank will soon discover that the desire of the public to hold its currency will be the essential circumstance on which its value depends. [...] The crucial point it must keep in mind will be that to keep a large and growing amount of its currency in circulation, it will be not the demand for borrowing it but the willingness of the public to hold it that will be decisive."footnote:[Hayek, The Denationalizaion of Money]
 
+"Why do people keep any cash balances at all? Suppose that all of us were able to foretell the future with absolute certainty. In that case, no one would have to keep cash balances on hand. Everyone would know exactly how much he will spend, and how much income he will receive, at all future dates. He need not keep any money at hand, but will lend out his gold so as to receive his payments in the needed amounts on the very days he makes his expenditures. But, of course, we necessarily live in a world of uncertainty. People do 
+not precisely know what will happen to them, or what their future incomes or costs will be. The more uncertain and fearful they are, the more cash balances they will want to hold; the more secure, the less cash they will wish to keep on hand. Another reason for keeping cash is also a function of the real world of uncertainty. If people expect the price of money to fall in the near future, they will spend their money now while money is more valuable, thus “dishoarding” and reducing their demand for money. Conversely, if they expect the price of money to rise, they will wait to spend money later when it is more valuable, and their demand for cash will increase. People’s demands for cash balances, then, rise and fall for good and sound reasons."footnote:[Rothbard, What has government done to our money, The Problem of "Hoarding"]
+
+
+-----------------------------
 Work in progress following...
+-----------------------------
 
 The degree of saleability can be defined by the following characteristics: (1) scarcity; (2) portability; (3) durability; (5) divisibility; (6) malleability; (4) homogeneity; (8) censorship resistance. Each of those attributes will be analyzed briefly and compared to the attributes of Bitcoin.
 
